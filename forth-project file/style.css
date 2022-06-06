@@ -8,7 +8,7 @@
  
 .head{
     display: flex;
-    background-color: rgb(2, 2, 41);
+    background-color: rgb(7, 7, 26);
     padding: 1px;
     border-bottom: solid;
     border-color: rgb(128, 123, 123);
@@ -71,7 +71,7 @@
 .home-key{
     display: flex;
     padding: 20px 10px;
-    background-color: rgb(2, 2, 41);
+    background-color: rgb(7, 7, 26);
     border-bottom: solid;
     border-color:rgb(128, 123, 123);
     border-width: 1px;
@@ -84,7 +84,7 @@
     width: 40px;
     color: rgb(71, 123, 219);
     border-radius: 10px;
-    background-color: rgb(34, 45, 75);
+    background-color: rgb(7, 7, 26);
     border-style: none;
 }
 .homekey-text{
@@ -99,7 +99,7 @@
 }
 
 /* ICON LIST */
-.bg{background-color:   rgb(2, 2, 41);
+.bg{background-color:   rgb(7, 7, 26);
     color: rgb(213, 206, 206);
    padding: 20px;
    max-width: 100%;
